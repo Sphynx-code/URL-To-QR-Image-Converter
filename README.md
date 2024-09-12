@@ -1,6 +1,6 @@
 
 
-# URL to QR Image Converter
+# URL To QR Image Converter
 
 Welcome to the **URL to QR Image Converter**, a simple and efficient tool for converting URLs into scannable QR code images in PNG format. This application is designed for ease of use across Windows, macOS, and Linux platforms.
 
