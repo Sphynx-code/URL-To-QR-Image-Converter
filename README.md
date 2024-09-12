@@ -6,7 +6,7 @@ Welcome to the **URL to QR Image Converter**, a simple and efficient tool for co
 
 ## 📥 Installation
 
-Download the appropriate executable from the GitHub Releases page:
+Download the appropriate executable from the Repository Releases page:
 
 - **Windows**: `Url-To-QRImage-Converter-1.0-win.exe`
 - **macOS**: `Url-To-QRImage-Converter-1.0-macos`
